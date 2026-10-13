@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: [mahe-crypto.github.io](https://mahe-crypto.github.io/maheweb/sitemap.xml)
